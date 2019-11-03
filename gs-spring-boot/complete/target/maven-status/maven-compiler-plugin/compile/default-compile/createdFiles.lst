@@ -1,0 +1,6 @@
+loader\Application.class
+loader\ProfileController.class
+service\TransactionManagerService.class
+loader\WebMvcConfig.class
+dao\LoginDao.class
+service\LoginService.class
