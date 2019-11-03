@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="gs-spring-boot" target="1.8" />
+      <module name="springbootjsp" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
