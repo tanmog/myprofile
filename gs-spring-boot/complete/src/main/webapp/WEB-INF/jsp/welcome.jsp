@@ -34,7 +34,7 @@
 </head>
 <body>
 <div class="login-form">
-    <form action="http://localhost:8080/loginPersons" method="get">
+    <form action="http://localhost:8080/loginPersons" method="post">
         <h2 class="text-center">Log in</h2>       
         <div class="form-group">
             <input type="text" class="form-control" name="name" placeholder="Username" required="required">
